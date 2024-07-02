@@ -1,74 +1,80 @@
 # UndergradProjectTest
 
-## Development Plan
+## Overview
+Describe your project briefly, including its purpose and key features. Mention that this README includes a structured plan for preparing for app development.
 
-### Week 1: Getting Started and Planning
-- **Goals**:
-  - Understand project requirements and scope.
-  - Define roles and responsibilities within the team.
-  - Set up development environments (Xcode for iOS, Android Studio for Android).
-- **Tasks**:
-  - Hold a kickoff meeting to discuss project vision, goals, and initial planning.
-  - Research and finalize the technology stack (frontend, backend).
-  - Begin learning basics of Swift/Kotlin and UI development.
+## Pre-Development Preparation Plan
 
-### Week 2-3: Learning and Basic Setup
+### Week 1: Setting Up and Learning Basics
+- **Dates**: July 2 - July 9, 2024
 - **Goals**:
-  - Gain proficiency in the chosen programming language (Swift/Kotlin).
-  - Learn about basic UI components (SwiftUI/Android XML).
+  - Set up Git repositories for version control (GitHub, GitLab, etc.).
+  - Create developer accounts (Apple Developer Account, Google Developer Account, etc.).
+  - Start watching introductory tutorials on Kotlin (for Android) or Swift (for iOS).
 - **Tasks**:
-  - Complete introductory tutorials or courses on Swift/Kotlin.
-  - Start implementing basic UI components for a sample project.
+  - Each team member sets up their Git account and familiarizes themselves with basic Git commands.
+  - Begin watching tutorials on Kotlin/Swift programming languages.
+
+### Week 2-3: UI Mockups and Design Planning
+- **Dates**: July 10 - July 23, 2024
+- **Goals**:
+  - Create mockups and wireframes for app screens using Canva or similar tools.
+  - Define the app's navigation flow and key functionalities.
+- **Tasks**:
+  - Collaboratively design UI mockups for each screen of the app.
+  - Discuss and finalize the app's user experience (UX) and user interface (UI) design.
+
+### Week 4: Detailed App Design and Prototype
+- **Dates**: July 24 - July 30, 2024
+- **Goals**:
+  - Develop detailed templates and prototypes based on the initial mockups.
+  - Plan for interactive prototypes to visualize app functionalities.
+- **Tasks**:
+  - Use tools like Figma or Adobe XD to create detailed UI/UX designs.
+  - Create interactive prototypes to simulate user interactions and workflows.
+
+### Week 5: Documentation and Planning
+- **Dates**: July 31 - August 6, 2024
+- **Goals**:
+  - Document the app's features, user stories, and technical specifications.
+  - Plan the development roadmap and assign tasks for the initial phase.
+- **Tasks**:
+  - Write user stories and define acceptance criteria for each feature.
+  - Create a development roadmap outlining milestones and timelines.
+
+### Week 6: Technology Exploration and Setup
+- **Dates**: August 7 - August 13, 2024
+- **Goals**:
+  - Explore and set up necessary backend technologies (if applicable).
+  - Conduct research on third-party APIs or services needed for the app.
+- **Tasks**:
   - Set up backend infrastructure (if not using BaaS).
-  - Learn about backend technologies (Node.js, Django, etc.).
+  - Investigate and integrate necessary APIs for planned app functionalities, such as:
+    - **OpenAI API**: For integrating ChatGPT functionality.
+    - **Google Maps API**: For location-based services.
+    - **Other relevant APIs**: Depending on app requirements (e.g., weather data, social media integration).
 
-### Week 4: Designing and Planning Core Features
+### Week 7: Research and Documentation
+- **Dates**: August 14 - August 20, 2024
 - **Goals**:
-  - Begin designing the app’s user interface (UI/UX design principles).
-  - Outline core features and create a development plan.
+  - Conduct research for reference materials and academic papers relevant to the project.
+  - Begin drafting technical documentation and design specifications.
 - **Tasks**:
-  - Use tools like Figma or Sketch to create wireframes and UI designs.
-  - Finalize UI screens for key features.
+  - Search for research papers and articles related to your app's domain or specific functionalities.
+  - Start drafting technical documentation outlining architecture, APIs used, and data flow diagrams.
 
-### Week 5-6: Developing Core Features
+### Week 8: Final Preparation and Kickoff
+- **Dates**: August 21 - August 27, 2024
 - **Goals**:
-  - Start developing core features of the app (e.g., proactive assistance, schedule management).
+  - Finalize preparations for app development launch.
+  - Hold a kickoff meeting to transition into the development phase.
 - **Tasks**:
-  - Implement feature-specific logic and UI components.
-  - Test integration between frontend and backend (if applicable).
-
-### Week 7: Mid-Project Review and Refinement
-- **Goals**:
-  - Review progress and address any challenges.
-  - Refine UI/UX based on feedback and usability testing.
-- **Tasks**:
-  - Conduct a progress meeting to review implemented features.
-  - Gather feedback from peers or potential users.
-  - Iterate on UI/UX designs and feature implementations.
-
-### Week 8: Testing, Optimization, and Deployment Preparation
-- **Goals**:
-  - Conduct unit tests for critical functionalities.
-  - Address any bugs or issues discovered during testing.
-- **Tasks**:
-  - Write unit tests for implemented features.
-  - Perform manual testing to ensure app stability and usability.
-  - Prepare for app store deployment (App Store/Google Play).
-
-### Week 9: Finalization, Presentation, and Wrap-Up
-- **Goals**:
-  - Finalize app features and optimizations.
-  - Prepare for final presentation and documentation.
-- **Tasks**:
-  - Complete deployment checklist (e.g., app icons, descriptions).
-  - Optimize app performance and finalize UI polish.
-  - Practice presentation and prepare slides.
-  - Document the development process, challenges faced, and lessons learned.
-  - Hold a final presentation and wrap-up meeting to showcase the app and reflect on the project.
+  - Ensure all team members are ready with development environments and accounts.
+  - Review and finalize technical documentation and research findings.
+  - Outline initial tasks and responsibilities for the start of app development.
 
 ### Meetings Schedule
-- **Week 1**: Kickoff meeting to discuss project scope, roles, and initial planning.
-- **Week 4**: Design and planning meeting to finalize UI designs and outline core features.
-- **Week 7**: Mid-project review meeting to assess progress, gather feedback, and refine the app.
-- **Week 9**: Final presentation and wrap-up meeting to showcase the app and reflect on the project.
-
+- **Wednesday, July 3, 2024**: Kickoff meeting to introduce project scope, roles, and initial planning.
+- **Wednesday, July 17, 2024**: Review meeting to discuss progress on Git setup and initial learning progress.
+- **Wednesday, July 31, 2024**: Design review meeting to present and finalize UI mockups and prototypes.
+- **Wednesday, August 21, 2024**: Final preparation and kickoff meeting to transition into the app development phase.
