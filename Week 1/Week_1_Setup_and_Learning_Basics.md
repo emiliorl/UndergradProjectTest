@@ -1,35 +1,41 @@
+# Week 1 Itinerary: October 14 - October 20, 2024
 
-# Week 1: Setting Up and Learning Basics
-**Dates:** July 2 - July 9, 2024
+**Day 1: October 14 (Monday)**
+- **Kickoff Brief (30 minutes)**
+  - Quick overview of sprint goals and tasks.
+  - Assign responsibilities and outline the design approach.
+- **Initial Design Work**
+  - Begin developing the high-fidelity prototype for the schedule management feature.
 
-## Goals:
-- Set up Git repositories for version control (GitHub, GitLab, etc.).
-- Create developer accounts (Apple Developer Account, Google Developer Account, etc.).
-- Start watching introductory tutorials on Kotlin (for Android) or Swift (for iOS).
+**Day 2: October 15 (Tuesday)**
+- **Daily Check-in (15 minutes)**
+  - Quick updates on progress and blockers.
+- **Independent Work**
+  - Continue work on the schedule management prototype with minimal interruptions.
 
-## Tasks:
-- Each team member sets up their Git account and familiarizes themselves with basic Git commands.
-- Begin watching tutorials on Kotlin/Swift programming languages.
+**Day 3: October 16 (Wednesday)**
+- **Extended Design Discussion (1 hour)**
+  - Deep dive into the design for schedule management.
+  - Gather feedback and refine the design.
+- **Start Prototype for Budgeting Feature**
 
-## Learning Resources
+**Day 4: October 17 (Thursday)**
+- **Daily Check-in (15 minutes)**
+  - Brief progress update.
+- **Independent Work**
+  - Focus on developing the budgeting feature prototype.
 
-### Git
-1. **Traversy Media - Git & GitHub Crash Course For Beginners**
-   - [Git & GitHub Crash Course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
-   
-2. **Academind - Git & GitHub Tutorial for Beginners**
-   - [Git & GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics)
+**Day 5: October 18 (Friday)**
+- **Daily Check-in (15 minutes)**
+  - Quick review of progress and discuss weekend plans.
+- **Prototype Refinement**
+  - Integrate any necessary changes based on feedback from earlier in the week.
 
-### Kotlin
-1. **Coding in Flow - Kotlin Beginner Tutorials**
-   - [Kotlin Beginner Tutorials](https://www.youtube.com/playlist?list=PLrnPJCHvNZuD2fp49r1Z62i0t1pfsCWg6)
+**Day 6: October 19 (Saturday)**
+- **Independent Work**
+  - Optional work on refining the prototypes based on personal schedules.
 
-2. **freeCodeCamp.org - Kotlin Full Course for Beginners**
-   - [Kotlin Full Course](https://www.youtube.com/watch?v=F9UC9DY-vIU)
-
-### Swift
-1. **CodeWithChris - Swift 5 Programming for Beginners**
-   - [Swift 5 Programming for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX)
-
-2. **The Net Ninja - Swift Tutorial for Beginners**
-   - [Swift Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hIUIobCjTXsDu6oy_Wy-Ir)
+**Day 7: October 20 (Sunday)**
+- **Extended Review Session (1 hour)**
+  - Review the refined prototypes for both schedule management and budgeting.
+  - Gather final feedback to guide the second week's focus.
