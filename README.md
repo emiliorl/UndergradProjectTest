@@ -1,80 +1,48 @@
-# UndergradProjectTest
+#Schedule
 
-## Overview
-Describe your project briefly, including its purpose and key features. Mention that this README includes a structured plan for preparing for app development.
+#### Sprint 1: October 14 - October 27, 2024 (Two-Week Sprint)
+- **Focus:** Finalize Design and Prototype
+- **Goals:** 
+  - Lock in the design and prototype decisions.
+  - Create a high-fidelity prototype for the main features (schedule management, smart shopping, budgeting).
+  - Gather immediate feedback to refine the design.
+- **Activities:** Daily stand-ups, focused design discussions, and decision-making.
+- **Review:** End-of-sprint review on October 27th with a finalized prototype ready for development.
 
-## Pre-Development Preparation Plan
+#### Break: October 28 - November 10, 2024 (Midterm Prep)
 
-### Week 1: Setting Up and Learning Basics
-- **Dates**: July 2 - July 9, 2024
-- **Goals**:
-  - Set up Git repositories for version control (GitHub, GitLab, etc.).
-  - Create developer accounts (Apple Developer Account, Google Developer Account, etc.).
-  - Start watching introductory tutorials on Kotlin (for Android) or Swift (for iOS).
-- **Tasks**:
-  - Each team member sets up their Git account and familiarizes themselves with basic Git commands.
-  - Begin watching tutorials on Kotlin/Swift programming languages.
+#### Sprint 2: November 11 - December 6, 2024 (Four-Week Sprint)
+- **Focus:** Transition into Development
+- **Goals:** 
+  - Start coding the key functionalities for schedule management and begin work on the smart shopping assistant.
+  - Establish the main architecture of the app to integrate all features seamlessly.
+- **Activities:** Regular code reviews, pair programming, and rapid iterations.
+- **Review:** Mid-sprint check-in on November 22nd and a final review on December 6th to assess development progress.
 
-### Week 2-3: UI Mockups and Design Planning
-- **Dates**: July 10 - July 23, 2024
-- **Goals**:
-  - Create mockups and wireframes for app screens using Canva or similar tools.
-  - Define the app's navigation flow and key functionalities.
-- **Tasks**:
-  - Collaboratively design UI mockups for each screen of the app.
-  - Discuss and finalize the app's user experience (UX) and user interface (UI) design.
+#### Sprint 3: December 9 - December 22, 2024 (Two-Week Sprint)
+- **Focus:** Feature Expansion and Early Testing
+- **Goals:** 
+  - Complete the core functionalities of the app.
+  - Begin testing the app's main features for bugs and user experience improvements.
+- **Activities:** Testing sessions, debugging, and refining the user interface.
+- **Review:** End-of-sprint review on December 22nd with a focus on identifying key issues for improvement.
 
-### Week 4: Detailed App Design and Prototype
-- **Dates**: July 24 - July 30, 2024
-- **Goals**:
-  - Develop detailed templates and prototypes based on the initial mockups.
-  - Plan for interactive prototypes to visualize app functionalities.
-- **Tasks**:
-  - Use tools like Figma or Adobe XD to create detailed UI/UX designs.
-  - Create interactive prototypes to simulate user interactions and workflows.
+#### Break: December 23, 2024 - January 5, 2025 (Finals and Holiday Season)
 
-### Week 5: Documentation and Planning
-- **Dates**: July 31 - August 6, 2024
-- **Goals**:
-  - Document the app's features, user stories, and technical specifications.
-  - Plan the development roadmap and assign tasks for the initial phase.
-- **Tasks**:
-  - Write user stories and define acceptance criteria for each feature.
-  - Create a development roadmap outlining milestones and timelines.
+#### Sprint 4: January 6 - January 19, 2025 (Two-Week Sprint)
+- **Focus:** Polishing Features and User Feedback
+- **Goals:** 
+  - Finalize all app features, ensuring they function smoothly.
+  - Collect and incorporate feedback from user testing to refine the app's usability.
+- **Activities:** Daily check-ins, bug fixes, and user experience enhancements.
+- **Review:** End-of-sprint review on January 19th, focusing on project readiness for the final stages.
 
-### Week 6: Technology Exploration and Setup
-- **Dates**: August 7 - August 13, 2024
-- **Goals**:
-  - Explore and set up necessary backend technologies (if applicable).
-  - Conduct research on third-party APIs or services needed for the app.
-- **Tasks**:
-  - Set up backend infrastructure (if not using BaaS).
-  - Investigate and integrate necessary APIs for planned app functionalities, such as:
-    - **OpenAI API**: For integrating ChatGPT functionality.
-    - **Google Maps API**: For location-based services.
-    - **Other relevant APIs**: Depending on app requirements (e.g., weather data, social media integration).
+#### Final Sprint: January 20 - January 31, 2025 (Two-Week Sprint)
+- **Focus:** Final Touches and Submission Preparation
+- **Goals:** 
+  - Address any remaining issues or inconsistencies.
+  - Complete all project documentation and prepare for the final presentation.
+- **Activities:** Final bug fixing, demo preparation, and presentation rehearsals.
+- **Review:** Final project review on January 31st with a complete and polished app ready for submission.
 
-### Week 7: Research and Documentation
-- **Dates**: August 14 - August 20, 2024
-- **Goals**:
-  - Conduct research for reference materials and academic papers relevant to the project.
-  - Begin drafting technical documentation and design specifications.
-- **Tasks**:
-  - Search for research papers and articles related to your app's domain or specific functionalities.
-  - Start drafting technical documentation outlining architecture, APIs used, and data flow diagrams.
-
-### Week 8: Final Preparation and Kickoff
-- **Dates**: August 21 - August 27, 2024
-- **Goals**:
-  - Finalize preparations for app development launch.
-  - Hold a kickoff meeting to transition into the development phase.
-- **Tasks**:
-  - Ensure all team members are ready with development environments and accounts.
-  - Review and finalize technical documentation and research findings.
-  - Outline initial tasks and responsibilities for the start of app development.
-
-### Meetings Schedule
-- **Wednesday, July 3, 2024**: Kickoff meeting to introduce project scope, roles, and initial planning.
-- **Wednesday, July 17, 2024**: Review meeting to discuss progress on Git setup and initial learning progress.
-- **Wednesday, July 31, 2024**: Design review meeting to present and finalize UI mockups and prototypes.
-- **Wednesday, August 21, 2024**: Final preparation and kickoff meeting to transition into the app development phase.
+This schedule maintains a focus on rapid development and iteration while allowing your team to take breaks during critical academic periods. Let me know if there are any more adjustments or specific areas you’d like to focus on!
