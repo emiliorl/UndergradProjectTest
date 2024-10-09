@@ -1,4 +1,4 @@
-#Schedule
+# Schedule
 
 #### Sprint 1: October 14 - October 27, 2024 (Two-Week Sprint)
 - **Focus:** Finalize Design and Prototype
